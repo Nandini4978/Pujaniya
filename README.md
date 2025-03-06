@@ -14,7 +14,7 @@
 
 ## 🚀 Tech Stack
 
-For now implemented with HTML, CSS and JavaScript
+=>> For now implemented with HTML, CSS and JavaScript
 
 - **Frontend:** React, HTML, CSS, JavaScript
 - **Backend:** Django (Python)
